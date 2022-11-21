@@ -1,14 +1,28 @@
 #pagina { margin: 0 auto;}
-#cabecalho,#esquerda, #centro, #direita, #rodape {background-color: rgb(160, 86, 86);{
+
+#cabecalho,#esquerda, #centro, #direita, #rodape {background-color: rgb(192, 165, 165);{
     margin: 10px;
 }
-#cabecalho{
-    height: 150px;
+  #cabecalho{background-color: rgb(221, 207, 189);}
+  
 }
 #esquerda{
     width: 20%;
     height: 500px;
-    float: left;
+    float: left; 
+    BEBIDAS:
+    Café expresso
+    Café c/ leite 
+    Cappuccino
+    Vanilla latte
+    Café gelado
+    Chocolate quente
+    Machiatto 
+    Chá verde 
+    Chá matte
+    Àgua
+    Coca cola
+    Fanta uva e laranja 
 }
 #centro{ 
     width: 55%;
@@ -19,8 +33,9 @@
     width: 20%;
     height: 500px;
     float: right ;
+    image.png
   }  
-    #rodape
-    
+  #rodape 
+
 
 
